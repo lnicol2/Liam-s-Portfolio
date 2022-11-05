@@ -1,0 +1,43 @@
+body { 
+    margin:0;
+ } 
+    
+ h1 { 
+    color: darkslategray; 
+ } 
+  
+ .background { 
+    background-color: orange; 
+    padding: 10px;
+ } 
+     
+ #cool{ 
+    border: 3px solid pink; 
+ } 
+  
+ .div-special { 
+    background-color: #333; 
+ } 
+  
+ .div-special p { 
+    color: #ccc; 
+ }
+ .navigation{
+    background-color:mediumseagreen
+ }
+ .navigation a{
+    color: white
+ 
+ }
+.fixed-bottom {
+    background-color: antiquewhite;
+    height: 8mm
+}
+.b {
+    color: blue
+}
+.jumbotron {
+    background-color: blanchedalmond
+}
+}
+;
